@@ -1,0 +1,2 @@
+class ProfilePhoto < Image
+end

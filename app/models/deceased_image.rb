@@ -1,0 +1,2 @@
+class DeceasedImage < Image
+end
